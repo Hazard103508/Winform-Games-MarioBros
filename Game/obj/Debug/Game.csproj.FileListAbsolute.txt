@@ -1,0 +1,56 @@
+D:\Agustin\Documents\My Documents\Zero Soft\Projects\Games\Zero_003 IA\Chess\Game\bin\Debug\Game.dll
+D:\Agustin\Documents\My Documents\Zero Soft\Projects\Games\Zero_003 IA\Chess\Game\bin\Debug\Game.pdb
+D:\Agustin\Documents\My Documents\Zero Soft\Projects\Games\Zero_003 IA\Chess\Game\obj\Debug\Game.csprojResolveAssemblyReference.cache
+D:\Agustin\Documents\My Documents\Zero Soft\Projects\Games\Zero_003 IA\Chess\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+D:\Agustin\Documents\My Documents\Zero Soft\Projects\Games\Zero_003 IA\Chess\Game\obj\Debug\Game.dll
+D:\Agustin\Documents\My Documents\Zero Soft\Projects\Games\Zero_003 IA\Chess\Game\obj\Debug\Game.pdb
+D:\Agustin\Documents\My Documents\Zero Soft\Projects\Games\Zero_003 IA\Chess\Game\obj\Debug\Game.csproj.GenerateResource.cache
+D:\Agustin\Documents\My Documents\Zero Soft\Projects\Games\Zero_003 IA\Chess\Game\obj\Debug\Game.Game.resources
+D:\Agustin\Documents\My Documents\Zero Soft\Web\WinMine\Code\Game\bin\Debug\Game.dll
+D:\Agustin\Documents\My Documents\Zero Soft\Web\WinMine\Code\Game\bin\Debug\Game.pdb
+D:\Agustin\Documents\My Documents\Zero Soft\Web\WinMine\Code\Game\obj\Debug\Game.csprojResolveAssemblyReference.cache
+D:\Agustin\Documents\My Documents\Zero Soft\Web\WinMine\Code\Game\obj\Debug\Game.Game.resources
+D:\Agustin\Documents\My Documents\Zero Soft\Web\WinMine\Code\Game\obj\Debug\Game.csproj.GenerateResource.cache
+D:\Agustin\Documents\My Documents\Zero Soft\Web\WinMine\Code\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+D:\Agustin\Documents\My Documents\Zero Soft\Web\WinMine\Code\Game\obj\Debug\Game.dll
+D:\Agustin\Documents\My Documents\Zero Soft\Web\WinMine\Code\Game\obj\Debug\Game.pdb
+D:\Agustin\Documents\My Documents\Zero Soft\Web\WinMine\Code\Game\obj\Debug\Game.Base.resources
+D:\Agustin\Documents\My Documents\Zero Soft\Web\01_WinMine\Code\Game\bin\Debug\Game.dll
+D:\Agustin\Documents\My Documents\Zero Soft\Web\01_WinMine\Code\Game\bin\Debug\Game.pdb
+D:\Agustin\Documents\My Documents\Zero Soft\Web\01_WinMine\Code\Game\obj\Debug\Game.csprojResolveAssemblyReference.cache
+D:\Agustin\Documents\My Documents\Zero Soft\Web\01_WinMine\Code\Game\obj\Debug\Game.Base.resources
+D:\Agustin\Documents\My Documents\Zero Soft\Web\01_WinMine\Code\Game\obj\Debug\Game.Game.resources
+D:\Agustin\Documents\My Documents\Zero Soft\Web\01_WinMine\Code\Game\obj\Debug\Game.Properties.Resources.resources
+D:\Agustin\Documents\My Documents\Zero Soft\Web\01_WinMine\Code\Game\obj\Debug\Game.csproj.GenerateResource.cache
+D:\Agustin\Documents\My Documents\Zero Soft\Web\01_WinMine\Code\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+D:\Agustin\Documents\My Documents\Zero Soft\Web\01_WinMine\Code\Game\obj\Debug\Game.dll
+D:\Agustin\Documents\My Documents\Zero Soft\Web\01_WinMine\Code\Game\obj\Debug\Game.pdb
+D:\Agustin\Documents\My Documents\Zero Soft\Web\02_Tetris\Code\Game\bin\Debug\Game.dll
+D:\Agustin\Documents\My Documents\Zero Soft\Web\02_Tetris\Code\Game\bin\Debug\Game.pdb
+D:\Agustin\Documents\My Documents\Zero Soft\Web\02_Tetris\Code\Game\obj\Debug\Game.Base.resources
+D:\Agustin\Documents\My Documents\Zero Soft\Web\02_Tetris\Code\Game\obj\Debug\Game.Game.resources
+D:\Agustin\Documents\My Documents\Zero Soft\Web\02_Tetris\Code\Game\obj\Debug\Game.Properties.Resources.resources
+D:\Agustin\Documents\My Documents\Zero Soft\Web\02_Tetris\Code\Game\obj\Debug\Game.csproj.GenerateResource.cache
+D:\Agustin\Documents\My Documents\Zero Soft\Web\02_Tetris\Code\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+D:\Agustin\Documents\My Documents\Zero Soft\Web\02_Tetris\Code\Game\obj\Debug\Game.dll
+D:\Agustin\Documents\My Documents\Zero Soft\Web\02_Tetris\Code\Game\obj\Debug\Game.pdb
+D:\Agustin\Documents\My Documents\Zero Soft\Web\02_Tetris\Code\Game\obj\Debug\Game.csprojAssemblyReference.cache
+D:\Agustin\Documents\My Documents\Zero Soft\Web\04_Path_Finding\Code\Game\bin\Debug\Game.dll
+D:\Agustin\Documents\My Documents\Zero Soft\Web\04_Path_Finding\Code\Game\bin\Debug\Game.pdb
+D:\Agustin\Documents\My Documents\Zero Soft\Web\04_Path_Finding\Code\Game\obj\Debug\Game.csprojAssemblyReference.cache
+D:\Agustin\Documents\My Documents\Zero Soft\Web\04_Path_Finding\Code\Game\obj\Debug\Game.Base.resources
+D:\Agustin\Documents\My Documents\Zero Soft\Web\04_Path_Finding\Code\Game\obj\Debug\Game.Game.resources
+D:\Agustin\Documents\My Documents\Zero Soft\Web\04_Path_Finding\Code\Game\obj\Debug\Game.Properties.Resources.resources
+D:\Agustin\Documents\My Documents\Zero Soft\Web\04_Path_Finding\Code\Game\obj\Debug\Game.csproj.GenerateResource.cache
+D:\Agustin\Documents\My Documents\Zero Soft\Web\04_Path_Finding\Code\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+D:\Agustin\Documents\My Documents\Zero Soft\Web\04_Path_Finding\Code\Game\obj\Debug\Game.dll
+D:\Agustin\Documents\My Documents\Zero Soft\Web\04_Path_Finding\Code\Game\obj\Debug\Game.pdb
+D:\Agustin\Documents\My Documents\Zero Soft\Web\Tutoriales\06_Plataforma_MarioBros\Code\Game\bin\Debug\Game.dll
+D:\Agustin\Documents\My Documents\Zero Soft\Web\Tutoriales\06_Plataforma_MarioBros\Code\Game\bin\Debug\Game.pdb
+D:\Agustin\Documents\My Documents\Zero Soft\Web\Tutoriales\06_Plataforma_MarioBros\Code\Game\obj\Debug\Game.Base.resources
+D:\Agustin\Documents\My Documents\Zero Soft\Web\Tutoriales\06_Plataforma_MarioBros\Code\Game\obj\Debug\Game.Game.resources
+D:\Agustin\Documents\My Documents\Zero Soft\Web\Tutoriales\06_Plataforma_MarioBros\Code\Game\obj\Debug\Game.Properties.Resources.resources
+D:\Agustin\Documents\My Documents\Zero Soft\Web\Tutoriales\06_Plataforma_MarioBros\Code\Game\obj\Debug\Game.csproj.GenerateResource.cache
+D:\Agustin\Documents\My Documents\Zero Soft\Web\Tutoriales\06_Plataforma_MarioBros\Code\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+D:\Agustin\Documents\My Documents\Zero Soft\Web\Tutoriales\06_Plataforma_MarioBros\Code\Game\obj\Debug\Game.dll
+D:\Agustin\Documents\My Documents\Zero Soft\Web\Tutoriales\06_Plataforma_MarioBros\Code\Game\obj\Debug\Game.pdb

@@ -1,0 +1,17 @@
+D:\Agustin\Documents\My Documents\Zero Soft\Web\Tutoriales\06_Plataforma_MarioBros\Code\MarioBros\bin\Debug\Assets\TileSet.png
+D:\Agustin\Documents\My Documents\Zero Soft\Web\Tutoriales\06_Plataforma_MarioBros\Code\MarioBros\bin\Debug\Assets\Level_1_1.json
+D:\Agustin\Documents\My Documents\Zero Soft\Web\Tutoriales\06_Plataforma_MarioBros\Code\MarioBros\bin\Debug\MarioBros.exe.config
+D:\Agustin\Documents\My Documents\Zero Soft\Web\Tutoriales\06_Plataforma_MarioBros\Code\MarioBros\bin\Debug\MarioBros.exe
+D:\Agustin\Documents\My Documents\Zero Soft\Web\Tutoriales\06_Plataforma_MarioBros\Code\MarioBros\bin\Debug\MarioBros.pdb
+D:\Agustin\Documents\My Documents\Zero Soft\Web\Tutoriales\06_Plataforma_MarioBros\Code\MarioBros\bin\Debug\Game.dll
+D:\Agustin\Documents\My Documents\Zero Soft\Web\Tutoriales\06_Plataforma_MarioBros\Code\MarioBros\bin\Debug\Newtonsoft.Json.dll
+D:\Agustin\Documents\My Documents\Zero Soft\Web\Tutoriales\06_Plataforma_MarioBros\Code\MarioBros\bin\Debug\Game.pdb
+D:\Agustin\Documents\My Documents\Zero Soft\Web\Tutoriales\06_Plataforma_MarioBros\Code\MarioBros\bin\Debug\Newtonsoft.Json.xml
+D:\Agustin\Documents\My Documents\Zero Soft\Web\Tutoriales\06_Plataforma_MarioBros\Code\MarioBros\obj\Debug\MarioBros.csprojAssemblyReference.cache
+D:\Agustin\Documents\My Documents\Zero Soft\Web\Tutoriales\06_Plataforma_MarioBros\Code\MarioBros\obj\Debug\MarioBros.Demo.resources
+D:\Agustin\Documents\My Documents\Zero Soft\Web\Tutoriales\06_Plataforma_MarioBros\Code\MarioBros\obj\Debug\MarioBros.Properties.Resources.resources
+D:\Agustin\Documents\My Documents\Zero Soft\Web\Tutoriales\06_Plataforma_MarioBros\Code\MarioBros\obj\Debug\MarioBros.csproj.GenerateResource.cache
+D:\Agustin\Documents\My Documents\Zero Soft\Web\Tutoriales\06_Plataforma_MarioBros\Code\MarioBros\obj\Debug\MarioBros.csproj.CoreCompileInputs.cache
+D:\Agustin\Documents\My Documents\Zero Soft\Web\Tutoriales\06_Plataforma_MarioBros\Code\MarioBros\obj\Debug\MarioBros.csproj.CopyComplete
+D:\Agustin\Documents\My Documents\Zero Soft\Web\Tutoriales\06_Plataforma_MarioBros\Code\MarioBros\obj\Debug\MarioBros.exe
+D:\Agustin\Documents\My Documents\Zero Soft\Web\Tutoriales\06_Plataforma_MarioBros\Code\MarioBros\obj\Debug\MarioBros.pdb
